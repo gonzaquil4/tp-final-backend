@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "usuario",
+    "apellido": "1",
+    "dni": "11111111",
+    "email": "usuario1@example.com"
+  },
+  {
+    "nombre": "usuario",
+    "apellido": "2",
+    "dni": "22222222",
+   "email": "usuario2@example.com"
+  },
+  {
+    "nombre": "usuario",
+    "apellido": "3",
+    "dni": "33333333",
+    "email": "usuario3@example.com"
+  },
+  {
+    "nombre": "usuario",
+    "apellido": "4",
+    "dni": "44444444",
+     "email": "usuario4@example.com"
+  }
+]
